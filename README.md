@@ -1,2 +1,2 @@
 # CRUD-Application
-CREATE CRUD using MySQL PHP OOP PDO
+Create CRUD application using MySQL PHP OOP PDO
